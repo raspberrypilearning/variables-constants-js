@@ -1,5 +1,5 @@
 A variable in programming is a named area of memory that holds a value. The value can be changed when the program runs.
-For example, `var age = 30;` `age` is the variable storing the value `30`
+For example, `var age = 30;` `age` is the variable holding the value `30`
 
 You can create variables using various keywords such as `var` and `let` Each of these keywords has slightly different behaviors and use cases.
 
