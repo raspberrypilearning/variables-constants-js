@@ -1,30 +1,30 @@
 ### Variables
 
-A variable is a named area of computer memory that holds a value.
+Une variable est une zone nommée de mémoire d'ordinateur qui contient une valeur.
 
-The value can be changed by the program.
+La valeur peut être modifiée par le programme.
 
-For example, `var age = 10;`
+Par exemple, `var age = 10;`
 
-- `age` is the name of the variable.
-- It is assigned the value `10`.
+- `age` est le nom de la variable.
+- La valeur « 10 » lui est attribuée.
 
-In the example, the variable is created using the keyword `var`.
+Dans cet exemple, la variable est créée en utilisant le mot-clé `var`.
 
-The keyword `let` can also be used. Variables declared using the keyword `let` can be used globally (throughout the program, like `var`) or used within a specific block of code, with changes limited to within that block.
+Le mot clé `let` peut également être utilisé. Les variables déclarées en utilisant le mot clé `let` peuvent être utilisées globalement (tout au long du programme, comme `var`) ou utilisé dans un bloc de code spécifique, avec des modifications limitées à l'intérieur de ce bloc.
 
-### Constants
+### Constantes
 
-A constant is a named data value.
+Une constante est une valeur de données nommée.
 
-The value cannot be changed by the program.
+La valeur ne peut pas être modifiée par le programme.
 
-Therefore, you cannot reassign the value of a constant once you have declared it.
+Par conséquent, tu ne peux pas réattribuer la valeur d'une constante une fois que tu l'as déclarée.
 
-For example:
+Par exemple :
 
 ```
 `const PI = 3.314159265359;`
 ```
 
-`PI` cannot be assigned another value throughout the program.
+`PI` ne peut pas être attribué à une autre valeur dans le programme.
