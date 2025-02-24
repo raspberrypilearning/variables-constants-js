@@ -6,8 +6,8 @@ La valeur peut être modifiée par le programme.
 
 Par exemple, `var age = 10;`
 
-- `age` est le nom de la variable.
-- La valeur « 10 » lui est attribuée.
+- `age` is the name of the variable
+- It is assigned the value `10`
 
 Dans cet exemple, la variable est créée en utilisant le mot-clé `var`.
 
