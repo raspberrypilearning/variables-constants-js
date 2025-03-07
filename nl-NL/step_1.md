@@ -5,7 +5,7 @@ Een variabele is een gebied met een naam in het computergeheugen dat een waarde 
 De waarde kan worden gewijzigd door het programma.
 
 Bijvoorbeeld, `var leeftijd = 10;`
-- `age` is de naam van de variabele.
+- `leeftijd` is de naam van de variabele.
 - Er is de waarde `10` aan toegekend.
 
 In het voorbeeld wordt de variabele gemaakt met behulp van het trefwoord `var`.
@@ -22,6 +22,6 @@ Daarom kun je de waarde van een constante niet opnieuw toewijzen nadat je deze h
 
 Bijvoorbeeld:
 
-    `const PI = 3.314159265359;`
+    `const PI = 3.14159265359;`
 
 Er kan geen andere waarde aan `PI` worden toegewezen in het programma.
