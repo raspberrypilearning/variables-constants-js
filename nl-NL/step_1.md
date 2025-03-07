@@ -6,8 +6,8 @@ De waarde kan worden gewijzigd door het programma.
 
 Bijvoorbeeld, `var leeftijd = 10;`
 
-- `age` is the name of the variable
-- It is assigned the value `10`
+- `leeftijd` is de naam van de variabele.
+- Er is de waarde `10` aan toegekend.
 
 In het voorbeeld wordt de variabele gemaakt met behulp van het trefwoord `var`.
 
